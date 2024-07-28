@@ -1,0 +1,10 @@
+<html>
+<body>
+    <h1>Profile</h1>
+
+    <h2>Rose Mary Biju</h2>
+     <p><strong>Email:</strong>rose123@gmail.com</p>
+    <p><strong>Phone:</strong>8896123400</p>
+    <p><strong>Skills:</strong> HTML, CSS, JavaScript,C,C++</p>
+</body>
+</html>
